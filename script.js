@@ -3,8 +3,8 @@ function checkCode() {
   const container = document.getElementById('container');
 
   // Define the codes and the corresponding messages
-  const correctCode1 = '1234';
-  const correctCode2 = '5678';
+  const correctCode1 = 'Magnolia';
+  const correctCode2 = 'Forget me not';
   const message1 = `
       <div class="message">
           <img src="image.png" alt="Magnolia">
